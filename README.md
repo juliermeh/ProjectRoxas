@@ -12,4 +12,5 @@ Os usuários podem ver e cadastrar códigos de desconto. A aplicação possui ba
 ## Pastas
 :open_file_folder: Android \
 :open_file_folder: Ideia \
-:open_file_folder: Protótipos
+:open_file_folder: Protótipos \
+:open_file_folder: Release
